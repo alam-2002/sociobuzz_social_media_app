@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072425043077",
+    "project_id": "sociobuzz-social-media-app",
+    "storage_bucket": "sociobuzz-social-media-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072425043077:android:249c125e5e6929054115ec",
+        "android_client_info": {
+          "package_name": "com.example.sociobuzz_social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg3fXvIbIfZIavU2-XD-NkfXI2TeUhkWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
