@@ -12,3 +12,5 @@
  6. user can follow eatch others
  7. user can delete his/her post, comments
  8. and many more, elpolore........
+• https://sociobuzz-social-media-app.web.app/
+for demo click on the link 👆👆👆
