@@ -1,6 +1,7 @@
 # sociobuzz_social_media_app
 • Sociobuzz Social Media App
 • used flutter BLoC for State Management
+• used firebase for authentication and as databases
 • fully working and functional app using BLoC
 • Featurs
  1. Authentication Required
