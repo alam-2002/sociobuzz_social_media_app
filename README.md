@@ -8,7 +8,7 @@
  2. user can post
  3. user can like
  4. user can comment
- 5. user can another user and visit his/her page
+ 5. user can search another user and visit his/her page
  6. user can follow eatch others
  7. user can delete his/her post, comments
  8. and many more, elpolore........
