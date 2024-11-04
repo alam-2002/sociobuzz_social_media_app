@@ -11,6 +11,6 @@
  5. user can search another user and visit his/her profile
  6. user can follow eatch others
  7. user can delete his/her post, comments
- 8. and many more, elpolore........
+ 8. and many more, explore........
 • https://sociobuzz-social-media-app.web.app/
 for demo click on the link
